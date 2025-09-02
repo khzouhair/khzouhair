@@ -30,18 +30,16 @@
   <!-- Data & AI -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb" /><br>
   <!-- Outils -->
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 Projets Récents
+<!--## 🚀 Projets Récents
 
-- 🔹 **Reconnaissance de Formes Géométriques** – CNN avec TensorFlow/Keras  
+- 🔹 **Reconnaissance de Formes Géométriques** – Classification supervisée avec **SVM, KNN et Random Forest**    
 - 🔹 **Plateforme de Matching CV-Offres** – Flask + Machine Learning + MySQL  
-- 🔹 **Maintenance Prédictive** – Streamlit + ML (RUL & anomalies)  
-
----
+- 🔹 **Maintenance Prédictive** – Streamlit + ML (RUL & anomalies)  -->
 
 ## 📬 Me Contacter
 
