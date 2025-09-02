@@ -1,4 +1,4 @@
-<!-- Banner (optionnel, à créer sur Canva ou Figma : fond sombre + data/AI elements) -->
+<!-- Banner (optional: create on Canva or Figma with a dark background + data/AI elements) -->
 <p align="center">
   <img src="https://github.com/khzouhair/khzouhair/blob/main/banner.png" width="100%" alt="Banner">
 </p>
@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Tableau de bord GitHub
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -20,33 +20,33 @@
 
 ---
 
-## 🛠️ Compétences
+## 🛠️ Skills
 
 <p align="center">
-  <!-- Langages -->
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,php,js,html,css" /><br>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br>
   <!-- Data & AI -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb" /><br>
-  <!-- Outils -->
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
 
 ---
 
-<!--## 🚀 Projets Récents
+<!--## 🚀 Recent Projects
 
-- 🔹 **Reconnaissance de Formes Géométriques** – Classification supervisée avec **SVM, KNN et Random Forest**    
-- 🔹 **Plateforme de Matching CV-Offres** – Flask + Machine Learning + MySQL  
-- 🔹 **Maintenance Prédictive** – Streamlit + ML (RUL & anomalies)  -->
+- 🔹 **Geometric Shape Recognition** – Supervised classification using **SVM, KNN, and Random Forest**    
+- 🔹 **CV-Job Matching Platform** – Flask + Machine Learning + MySQL  
+- 🔹 **Predictive Maintenance** – Streamlit + ML (RUL & anomalies)  -->
 
-## 📬 Me Contacter
+## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:khadija.zouhair@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/khadija-zouhair"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://khadija-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:khadijazouhair2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/zouhair-khadija/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://khzouhair.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
