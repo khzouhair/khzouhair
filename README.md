@@ -1,54 +1,49 @@
-<!-- Banner (optional: create on Canva or Figma with a dark background + data/AI elements) -->
-<p align="center">
-  <img src="https://github.com/khzouhair/khzouhair/blob/main/banner.png" width="100%" alt="Banner">
-</p>
+### 👋 Salut, je suis [Votre Nom]!
 
-<h1 align="center">👩‍💻 Khadija Zouhair</h1>
-<h3 align="center">Data Science | Machine Learning | Cloud & Big Data</h3>
+💻 **Étudiant en Data Science** | 🤖 **Passionné par le Machine Learning** | 📊 **Spécialiste du Big Data**
 
 ---
 
-## 📊 GitHub Dashboard
+### 🎓 À propos de moi
+
+- 🌍 Basé au Maroc
+- 🎯 Actuellement étudiant en fin de cycle d'ingénieur en **Informatique et Science des Données**.
+- 💡 Je me passionne pour la résolution de problèmes complexes à l'aide de l'IA et de l'analyse de données.
+
+---
+
+### 🛠️ Mes compétences techniques
+
+| Data Science & ML | Langages de Programmation | Développement Web | Outils & Autres |
+|-------------------|---------------------------|-------------------|-----------------|
+| Python (NumPy, Pandas, Scikit-Learn), TensorFlow, Keras, Qlik Sense, Power BI | Python, C, Java, JavaScript, PHP, Matlab | HTML, CSS, Bootstrap, Tailwind, MySQL | Git, GitHub, Linux, Windows |
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khzouhair&show_icons=true&theme=transparent&hide_border=true&border_radius=12&count_private=true" height="160px"/>  
-<img src="https://streak-stats.demolab.com?user=khzouhair&theme=transparent&hide_border=true&border_radius=12" height="160px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzouhair&layout=compact&theme=transparent&hide_border=true&border_radius=12" height="160px"/>  
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,html,css,bootstrap,tailwind,github,linux,windows" alt="Badges de compétences" />
 </div>
 
 ---
 
-## 🛠️ Skills
+### 🚀 Mes projets récents
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,js,html,css" /><br>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br>
-  <!-- Data & AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb" /><br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-</p>
+- **Rihla Travel Planner**: Application web Flask pour générer des itinéraires de voyage personnalisés au Maroc en utilisant l'API de Google Gemini.
+- **Prédiction du Churn Client**: Modèle de Machine Learning (Random Forest) pour prédire le désabonnement des clients télécom.
+- **Analyse des Ventes & Dashboard**: Création d'un tableau de bord avec Power BI pour l'analyse des données de vente, suite à un traitement avec Python.
 
 ---
 
-<!--## 🚀 Recent Projects
+### 📊 Mes statistiques GitHub
 
-- 🔹 **Geometric Shape Recognition** – Supervised classification using **SVM, KNN, and Random Forest**    
-- 🔹 **CV-Job Matching Platform** – Flask + Machine Learning + MySQL  
-- 🔹 **Predictive Maintenance** – Streamlit + ML (RUL & anomalies)  -->
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:khadijazouhair2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/zouhair-khadija/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://khzouhair.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[VotreNomUtilisateur]&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VotreNomUtilisateur]&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</div>
 
 ---
 
-⭐️ From [khzouhair](https://github.com/khzouhair)
+### 🤝 Connectez-vous avec moi
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/[VotreProfilLinkedIn]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/[VotreNomUtilisateur]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
