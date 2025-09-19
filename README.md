@@ -40,14 +40,16 @@
 </div>
 
 ---
-### 🐍 My GitHub Activity
 
-<div align="center">
-  <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 ### 🤝 Connectez-vous avec moi
 
 <div align="center">
   <a href="https://www.linkedin.com/in/[VotreProfilLinkedIn]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/khzouhair" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
