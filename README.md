@@ -22,13 +22,11 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,html,css,bootstrap,tailwind,github,linux,windows" alt="Badges de compétences" />
 </div>
 
----
+### 🛠️ Technical Skills
 
-### 🚀 Mes projets récents
-
-- **Rihla Travel Planner**: Application web Flask pour générer des itinéraires de voyage personnalisés au Maroc en utilisant l'API de Google Gemini.
-- **Prédiction du Churn Client**: Modèle de Machine Learning (Random Forest) pour prédire le désabonnement des clients télécom.
-- **Analyse des Ventes & Dashboard**: Création d'un tableau de bord avec Power BI pour l'analyse des données de vente, suite à un traitement avec Python.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,html,css,bootstrap,tailwind,github,linux,windows" alt="Skills badges" />
+</div>
 
 ---
 
@@ -41,15 +39,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
 ### 🤝 Connectez-vous avec moi
 
 <div align="center">
   <a href="https://www.linkedin.com/in/[VotreProfilLinkedIn]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/khzouhair" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
