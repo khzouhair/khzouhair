@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Your Name]!
+### 👋 Hi, I'm Khadija Zouhair!
 
 💻 **Data Science Student** | 🤖 **Machine Learning Enthusiast** | 📊 **Big Data Specialist**
 
