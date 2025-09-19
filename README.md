@@ -1,28 +1,24 @@
-### 👋 Salut, je suis [Votre Nom]!
+### 👋 Hi, I'm [Your Name]!
 
-💻 **Étudiant en Data Science** | 🤖 **Passionné par le Machine Learning** | 📊 **Spécialiste du Big Data**
-
----
-
-### 🎓 À propos de moi
-
-- 🌍 Basé au Maroc
-- 🎯 Actuellement étudiant en fin de cycle d'ingénieur en **Informatique et Science des Données**.
-- 💡 Je me passionne pour la résolution de problèmes complexes à l'aide de l'IA et de l'analyse de données.
+💻 **Data Science Student** | 🤖 **Machine Learning Enthusiast** | 📊 **Big Data Specialist**
 
 ---
 
-### 🛠️ Mes compétences techniques
+### 🎓 About Me
 
-| Data Science & ML | Langages de Programmation | Développement Web | Outils & Autres |
-|-------------------|---------------------------|-------------------|-----------------|
-| Python (NumPy, Pandas, Scikit-Learn), TensorFlow, Keras, Qlik Sense, Power BI | Python, C, Java, JavaScript, PHP, Matlab | HTML, CSS, Bootstrap, Tailwind, MySQL | Git, GitHub, Linux, Windows |
+- 🌍 Based in Morocco
+- 🎯 Currently a final-year engineering student specializing in **Computer Science and Data Science**.
+- 💡 I'm passionate about using AI and data analysis to solve complex problems.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,html,css,bootstrap,tailwind,github,linux,windows" alt="Badges de compétences" />
-</div>
+---
 
-### 🛠️ Technical Skills
+### 🛠️ My Technical Skills
+
+| 📊 Data Science & ML | 💻 Langages | 🌐 Web & BD | 🧰 Outils & OS |
+| :--- | :--- | :--- | :--- |
+| Python (NumPy, Pandas, Scikit-Learn) | Python, C, Java | HTML, CSS, Tailwind | Git, GitHub, Linux |
+| TensorFlow, Keras | JavaScript, PHP | Bootstrap, MySQL | Windows, MacOS |
+| Qlik Sense, Power BI | Matlab | UML, Merise | Hadoop |
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,html,css,bootstrap,tailwind,github,linux,windows" alt="Skills badges" />
@@ -30,11 +26,11 @@
 
 ---
 
-### 📊 Mes statistiques GitHub
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khzouhair&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzouhair&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khzouhair&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzouhair&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 ---
@@ -45,9 +41,9 @@
 
 ---
 
-### 🤝 Connectez-vous avec moi
+### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[VotreProfilLinkedIn]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/zouhair-khadija/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/khzouhair" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
